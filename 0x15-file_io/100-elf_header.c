@@ -1,7 +1,3 @@
-		break;
-	case ELFOSABI_FREEBSD:
-		printf("UNIX - FreeBSD\n");
-		break;
 	case ELFOSABI_TRU64:
 		printf("UNIX - TRU64\n");
 		break;
